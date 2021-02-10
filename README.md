@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png)
+
 # Flutter Getx - Scaffolding example
 
 In this package we have used GetX state management package for flutter it includes:
