@@ -1,6 +1,5 @@
 # Flutter Getx - Scaffolding example
 
-In this video we introduce you to the joy of using GetX as state management in Flutter applications, it is easy and lightweight #flutter​ #getx​ #tutorial​
 In this package we have used GetX state management package for flutter it includes:
 - Pages, Controllers and Bindings
 - Routes defination
