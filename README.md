@@ -1,16 +1,32 @@
-# getx_app
+# Flutter Getx - Scaffolding example
 
-A new Flutter project.
+In this video we introduce you to the joy of using GetX as state management in Flutter applications, it is easy and lightweight #flutter​ #getx​ #tutorial​
+In this package we have used GetX state management package for flutter it includes:
+- Pages, Controllers and Bindings
+- Routes defination
+- Routes navigation
+- Passing arguments in routes
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone the repository `git clone git@github.com:TeamArtisansDev/flutter-getx-scaffolding-example.git`
+- Get packages using `flutter pub get`
+- Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+Watch the tutorial video in Youtube: https://www.youtube.com/watch?v=TbSSNd2ZevU
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Follow us
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Website: https://teamartisans.com
+
+Facebook: https://facebook.com/TeamArtisans
+
+Twitter: https://twitter.com/TeamArtisans
+
+Instagram: https://instagram.com/TeamArtisans
+
+Medium: https://medium.com/TeamArtisans
+
+Linkedin: https://linkedin.com/company/TeamArtisans
+
+Email: contact@teamartisans.com
