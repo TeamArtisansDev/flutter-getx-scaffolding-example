@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png)
 
-# Flutter Getx - Scaffolding example
+# Flutter Getx - Scaffolding Example
 
 In this package we have used GetX state management package for flutter it includes:
 - Pages, Controllers and Bindings
